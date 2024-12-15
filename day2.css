@@ -1,0 +1,65 @@
+nav{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1KfjALZG0rdFgQzNBL9YZyB7Y07cUwpnaog&s);
+    background-repeat: repeat-x;
+    opacity: 0.5px;
+   color: rgb(43, 6, 255);
+    text-shadow: rgb(255, 0, 0);
+    text-align: center;
+    text-decoration: underline;
+   }
+   #Chari{
+       text-align: right;
+      text-decoration: solid;
+       text-shadow: 40px;
+      
+   }
+   #Battu{
+       text-align: center;
+   text-decoration: none;
+   }
+   #Basha{
+       text-align: left;
+       text-decoration: none;
+   }
+    .Gym{
+       height: 100px;
+       font-size: larger;
+       text-align: center;
+       background-color: rgb(185, 206, 214);
+       color: black; 
+    }
+   .Beginer{
+      background-image: linear-gradient(to right,blue, green);
+   }
+
+    .easy{
+       width: 250px;
+       height: 300px;
+       border: 50px;
+      
+       background-color: rgb(57, 177, 221);
+       padding: 10px 10px;
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       
+    }
+    #Buff{
+       text-align: center;
+       text-decoration: underline;
+    }
+    .Gold{
+       width: 250px;
+       height: 300px;
+       border: 50px;
+       background-color: rgb(232, 169, 169);
+       padding: 10px 10px;
+       display:block;
+       margin-left: auto;
+       margin-right: auto;
+       
+    }
+    #Gold{
+       text-align: center;
+       text-decoration: underline;
+    }
